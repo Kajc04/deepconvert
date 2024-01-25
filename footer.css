@@ -1,0 +1,14 @@
+.note{
+    position: relative;
+    bottom: 0;
+    font-size: 12px;
+    color: grey;
+    bottom: 0px;
+    margin-top: 150px;
+    margin-bottom: 0;
+    
+}
+.pull-right{
+    position: absolute;
+    right: 0px;
+}

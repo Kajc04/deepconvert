@@ -1,0 +1,43 @@
+.row {
+    display: flex !important;
+    background-color: #f7f7f7 !important;
+    
+}
+.input-group {
+    flex-direction: column;
+}
+
+.form-control {
+    width: auto !important;
+    max-height: 130px;
+    height: 130px;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: arial;
+    height: 233px;
+}
+.disabled {
+    background-color: white !important;
+}
+
+.unitSelected{
+    font-weight: 600;
+    color: #41bb8d
+}
+
+.data-box{
+    margin-left: 15px;
+    
+    
+}
+
+.data-box textarea{
+    background-color: white;
+    height: 180px;
+}
+
+.row {
+    display: flex !important;
+    background-color: #f7f7f7 !important;
+    margin: 5px 5px !important;
+}

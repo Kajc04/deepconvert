@@ -1,0 +1,13 @@
+.btt{
+    color: black;
+    font-weight: 600;
+    background-color: rgb(193, 221, 202);
+}
+
+.button button:hover{
+    background-color: #58d0a3;
+}
+
+.button button:focus{
+    background-color: #41bb8d;
+}

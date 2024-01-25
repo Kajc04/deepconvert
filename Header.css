@@ -1,0 +1,19 @@
+
+nav{
+    background-color: #41bb8d;
+}
+
+nav li .nav-link, .navbar-brand {
+    color: white;
+}
+.navbar-brand {
+    font-weight: 1000;
+    margin-left: 40px;
+    font-size: 25px;
+  }
+  .navbar-nav {
+    flex-direction: row;
+    font-weight: 600;
+    margin: auto;
+}
+

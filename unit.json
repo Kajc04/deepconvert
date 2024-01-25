@@ -1,0 +1,36 @@
+{
+    "Length":{
+        "meters": {"km":0.001,"hm":0.01,"dam":0.1,"m":1,"dm":10,"cm":100,"mm":1000},
+        "other": {"yard":0.9144,"foot":0.3048,"inch":0.0254,"perche":6.496}
+    },
+    "Volume":{
+        "liters": {"hl":0.01,"dal":0.1,"l":1,"dl":10,"cl":100,"ml":1000},
+        "meterCube":{"m3":0.001,"dm3":1,"cm3":1000,"mm3":1000000},
+        "other":{"baril":159, "tonneau":0.00283,"galopin":0.12,"picotin":3,"kapok":0.3}
+
+    },
+    "Weight":{
+        "gramms": {"kg":0.001,"hg":0.01,"dag":0.1,"g":1,"dg":10,"cg":100,"mg":1000}
+    },
+    "Currency":{
+        "africa": {"FCFA-XOF":562.86},
+        "america": {"$-USD":1},
+        "asia": {"YEN":114.26},
+        "europe": {"EURO":0.86, "POUND":0.73}
+    },
+    "Speed":{
+        "m/s":{"m/s":1},
+        "km/h":{"km/h":3.6},
+        "mph":{"mph":2.23693629},
+        "Knot":{"kn":0.51}
+    },
+    "Time":{
+        "Hours":{"sec":1,"min":0.0166667,"hour": 0.000277778},
+        "Date":{"day":1.1574e-5,"month":1092000, "year":13104000}
+    },
+    "Temperature":{
+      
+    }
+
+
+}

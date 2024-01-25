@@ -1,0 +1,19 @@
+.alert-heading {
+    color: inherit;
+    font-size: 15px;
+}
+
+.alert-warning {
+    color: #664d03;
+    background-color: #fff3cd;
+    border-color: #ffecb5;
+    display: flex;
+}
+b, strong {
+    font-weight: bolder;
+    float: right;
+    margin-left: 350px;
+    position: absolute;
+    right: 0;
+    margin-right: 20px;
+}
